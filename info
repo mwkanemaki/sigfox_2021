@@ -1,0 +1,62 @@
+
+
+
+STM
+
+
+STEVAL-FKI915V1
+
+The STEVAL-FKI915V1 evaluation board 
+is based 
+on the S2-LP sub-1GHz 
+ultra-low power 
+low data-rate 
+transceiver 
+suitable 
+for ISM bands 
+and 
+wireless M-Bus. 
+The NUCLEO-L152RE main board 
+with an STM32L low power MCU 
+controls 
+the S2-LP 
+and 
+integrates 
+the ST-LINK/V2-1 debugger 
+and 
+programmer 
+for firmware updating.
+The STEVAL-FKI915V1 
+includes 
+an external power amplifier 
+from SkyWorks®, 
+which allows the application 
+to reach +27 dBm (500 mW) output power
+
+
+●UM2641
+Getting started with the X-NUCLEO-S2915A1 Sub-1 GHz 915 MHz RF expansion
+board based on S2-LP radio for STM32 Nucleo
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -3,7 +3,7 @@
 
 STM
 
-
+//////////////////////////
 STEVAL-FKI915V1
 
 The STEVAL-FKI915V1 evaluation board 
@@ -38,7 +38,35 @@ to reach +27 dBm (500 mW) output power
 Getting started with the X-NUCLEO-S2915A1 Sub-1 GHz 915 MHz RF expansion
 board based on S2-LP radio for STM32 Nucleo
 
-.
+BOM　回路図あり重要
+
+///////////////////////////////////////////
+
+
+UM2149
+Getting started with the S2-LP development kits
+
+
+
+
+//////////////////////////////////////////////
+X-NUCLEO-S2868A2
+
+UM2638
+Getting started with the X-NUCLEO-S2868A2 Sub-1 GHz 868 MHz RF expansion
+board based on S2-LP radio for STM32 Nucleo
+
+BOM ,回路図　あり
+
+
+
+
+
+
+
+
+
+
 
 
 

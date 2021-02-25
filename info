@@ -69,8 +69,21 @@ BLE関連
 BlueNRG-M2
 PCB antenna (BLUENRG-M2SP)
 
+X-NUCLEO-BNRG2A1
+Bluetooth Low Energy expansion board 
+based 
+on the BLUENRG-M2SP module 
+for STM32 Nucleo
+
+UM2667
+Getting started with the X-NUCLEO-BNRG2A1 BLE expansion board based on
+BLUENRG-M2SP module for STM32 Nucleo
 
 
+DT0137
+Design tip
+How to port an existing project from the BlueNRG-M2SA module
+to the BlueNRG-M2SP module
 
 
 
